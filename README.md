@@ -27,9 +27,9 @@
 
 当前发布版本：`v1.3.1`
 
-- `ccCOM-v1.3.1-win-x64-单文件版.zip`
+- `单文件版 ccCOM-v1.3.1-win-x64-single-file.zip`
   说明：体积最小，便于分发；需要目标电脑先安装 `.NET 8 Desktop Runtime x64`。 
-- `ccCOM-v1.3.1-win-x64-包含依赖版.zip`
+- `包含依赖版 ccCOM-v1.3.1-win-x64-self-contained.zip`
   说明：免安装，解压即用；不需要安装 .NET  运行。 
 
 
