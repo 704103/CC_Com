@@ -22,7 +22,8 @@
 当前 README 记录的运行时版本说明：
 
 - 版本：`.NET 8 Desktop Runtime 8.0.25`
-- 架构：`x64` 
+- 架构：`x64`
+- 发布日期：`2026-03-10`
 
 ## 发布包
 
@@ -38,6 +39,7 @@
   网盘:https://wwbus.lanzouv.com/b00zykvf4b
 
   密码:eas1
+
   Gitee:https://gitee.com/numda/cc-com
 
   GitHub:https://github.com/704103/ccCOM
@@ -50,7 +52,9 @@
 
 ## 功能演示
 
-- 主页极简 
+- 主页极简
+- **中键按住空白区移动窗口**
+- **`Ctrl + 滚轮` 缩放窗口**
 - `Ctrl+B` 隐藏 / 显示快捷功能区
 - `Ctrl+F` 搜索
 - `Ctrl+H` 筛选
